@@ -1,0 +1,4 @@
+baseURL = 'https://icecreammyy.github.io/'
+languageCode = 'en-us'
+title = 'my baby site'
+theme = 'ananke'
