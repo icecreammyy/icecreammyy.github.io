@@ -1,0 +1,5 @@
+/* your styles go here */
+.clearfix {
+    border: 1px solid black;
+    clear: none;
+}
