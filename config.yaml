@@ -1,6 +1,0 @@
-module:
-  hugoVersion:
-    min: "0.84.0"
-  baseURL: "https://icecreammyy.github.io/"
-  title: "my baby site"
-  theme: "ananke"

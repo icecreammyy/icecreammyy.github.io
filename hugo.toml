@@ -1,4 +1,67 @@
 baseURL = 'https://icecreammyy.github.io/'
 languageCode = 'en-us'
-title = 'my baby site'
-theme = 'ananke'
+title = 'bb explora	(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧'
+theme = 'hugo-creative-portfolio-theme'
+
+[module]
+[[module.imports]]
+    path = 'hugomods/images'
+[[module.imports]]
+    path = 'hugomods/bootstrap'
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "pink"
+  description = "a little blog for my own musings"
+  copyright = "&copy;2023 bb explora"
+  sidebarAbout = [
+    "a lil blob from singapore floating and exploring what life has to offer",
+    "currently based in nyc"
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "posts/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/me"
+
+  [[params.navlinks]]
+  name = "Crochet Projects"
+  url = "crochet/"
+  
+  [[params.navlinks]]
+  name = "Radio Show"
+  url = "https://www.radiofreebrooklyn.org/show/so-far-away/"
+  
+  [params.social]
+  spotify       = "https://open.spotify.com/user/qiling9716?si=e40f54a9b5224b27"
+  email         = "sara.soh.ql@gmail.com"
+  linkedin      = "https://www.linkedin.com/in/sara-soh-1bb799145/"
+  instagram     = "https://www.instagram.com/bad.pics.png/"

@@ -9,3 +9,4 @@ draft = false
 This is **my very first website** and I'm pretty *excited*
 
 I'm building this with [Hugo](https://gohugo.io) :D
+{{< spotify type="album" id="5vqILcEeCT0N1DeJBsLrGE" width="100%" height="250" >}}
