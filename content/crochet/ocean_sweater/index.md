@@ -4,7 +4,7 @@ showonlyimage = true
 title_color = '#0756b0'
 image = "img/gallery/ocean_sweater/ocean_top_worn.jpg"
 date = 2023-11-01T18:14:57-04:00
-draft = true
+draft = false
 label = "crafts"
 type = "gallery"
 +++

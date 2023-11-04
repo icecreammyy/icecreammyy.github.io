@@ -4,7 +4,7 @@ title_color= '#eb7652'
 showonlyimage = true
 image = "img/gallery/chilli_sweater/chilli_sweater_in_sun.jpg"
 date = 2023-11-01T16:29:57-04:00
-draft = true
+draft = false
 label = "crafts"
 type = "gallery"
 +++
