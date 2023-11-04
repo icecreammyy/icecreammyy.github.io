@@ -5,9 +5,9 @@ theme = 'hugo-creative-portfolio-theme'
 
 [module]
 [[module.imports]]
-    path = 'hugomods/images'
+    path = 'github.com/hugomods/images'
 [[module.imports]]
-    path = 'hugomods/bootstrap'
+    path = 'github.com/hugomods/bootstrap'
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
