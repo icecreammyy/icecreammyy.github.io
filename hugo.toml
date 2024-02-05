@@ -55,6 +55,10 @@ theme = 'hugo-creative-portfolio-theme'
   [[params.navlinks]]
   name = "Crochet Projects"
   url = "crochet/"
+
+  [[params.navlinks]]
+  name = "Music"
+  url = "music/"
   
   [[params.navlinks]]
   name = "Radio Show"
