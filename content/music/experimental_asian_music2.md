@@ -2,7 +2,7 @@
 title = 'experimental asian music II'
 title_color= '#eb7652'
 showonlyimage = true
-image = "img/gallery/ambient_electronica/electronic_music.jpeg"
+image = "img/gallery/playlist_images/electronic_music.jpeg"
 date = 2024-02-05T16:29:57-04:00
 draft = false
 label = "music"
