@@ -1,5 +1,7 @@
 --- 
 title: 'A little introduction'
+image: "about/me.jpg"
+showonlyimage: true
 date: 2023-10-26T18:42:24-04:00
 draft: false
 ---
